@@ -374,7 +374,8 @@ textarea {
 
 .map figure {
   position: relative;
-  padding-bottom: 75%;
+  padding-bottom: 125%;
+  width: 100%;
   height: 0;
   overflow: hidden;
 }
