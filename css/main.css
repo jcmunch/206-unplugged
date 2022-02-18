@@ -644,6 +644,10 @@ textarea {
     padding-top: 20px;
   }
 
+  .map figure {
+    padding-bottom: 45.3%;
+  }
+
   .mission-content p {
     width: 45%;
   }
@@ -759,6 +763,11 @@ textarea {
   .contact-content h4 {
     font-size: 1.875em;
   }
+
+  .map figure {
+    padding-bottom: 37.5%;
+  }
+
 
   /**FAQ Page**/
   .faq h2 {
