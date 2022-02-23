@@ -561,8 +561,9 @@ textarea {
     width: 20%;
   }
 
-  header nav Ul {
+  header nav ul {
     justify-content: space-between;
+    
   }
 
   .header-divider {
